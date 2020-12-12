@@ -21,7 +21,10 @@ See you around
 git log
 
 commit 5ec660c073aec00fba13b37719e8c7e50afda61d (HEAD -> hola2, origin/hola2)
+
 Author: lavf
+
 Date:   Sat Dec 12 12:59:35 2020 +0100
+
 
     second commit
